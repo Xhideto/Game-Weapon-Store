@@ -39,6 +39,7 @@ The `Game Weapon Store` smart contract introduces a unique weapon game store whe
 - `Burn function` can deduct your tokens at any amount.
 - `Transfer function` can send tokens to another address.
 - `Redeem function` can redeem weapons from the store it will burn your token and deduct its quantity.
+- `Get Inventory` checks the weapons in the inventory after redeeming it
 - `Check Balance` can check the balance of the token.
 - `getWeapon function` can get the weapon details(name, price, & quantity).
 
